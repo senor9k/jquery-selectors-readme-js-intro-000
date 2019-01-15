@@ -1,2 +1,6 @@
 // declare your functions here...
-$('p')
+function paragraphSelector(){
+  $( document ).ready( function () {
+    $('p')
+  });
+}
