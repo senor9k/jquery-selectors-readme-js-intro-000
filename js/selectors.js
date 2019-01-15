@@ -1,4 +1,4 @@
 // declare your functions here...
-$( document ).ready( paragraphSelector() {
+$( document ).ready( function() {
     $('p').text()
 })
