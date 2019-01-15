@@ -1,4 +1,4 @@
 // declare your functions here...
 function paragraphSelector() {
-  console.log("cc"")
+  console.log("cc")
 }
