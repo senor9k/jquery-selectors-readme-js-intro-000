@@ -4,3 +4,9 @@ function paragraphSelector(){
     $('p')
   });
 }
+
+function lastImageSelector(){
+  $( document ).ready( function () {
+    $('img:last')
+  });
+}
